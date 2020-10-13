@@ -10,7 +10,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <inceptionYear>2020</inceptionYear>
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <junit-jupiter.version>5.5.2</junit-jupiter.version>
     <compiler.version>3.8.1</compiler.version>
     <slf4j.version>1.7.28</slf4j.version>
